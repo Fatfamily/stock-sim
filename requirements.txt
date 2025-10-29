@@ -1,0 +1,7 @@
+streamlit
+yfinance
+streamlit-autorefresh
+pandas
+altair
+pymongo
+bcrypt
